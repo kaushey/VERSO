@@ -112,6 +112,4 @@ This implements Git's core object model and staging flow, not the full command
 surface. There's no branching, merging, diffing, or remote support (yet) —
 contributions welcome.
 
-## License
 
-MIT
